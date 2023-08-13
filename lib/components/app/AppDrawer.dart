@@ -28,8 +28,6 @@ class AppDrawer extends StatelessWidget {
           //     ),
           //     accountEmail: Text("davanncr@gmail.com")
           //     )
-
-
           Container(
             height: 150,
             padding: EdgeInsets.symmetric(horizontal: 10),
